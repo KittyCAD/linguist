@@ -498,6 +498,8 @@ vendor/grammars/jflex.tmbundle:
 - source.jflex
 vendor/grammars/jte-template-syntax-highlight:
 - text.html.jte
+vendor/grammars/kcl.tmbundle:
+- source.kcl
 vendor/grammars/kivy-language-grammer:
 - source.python.kivy
 vendor/grammars/kusto-sublime:

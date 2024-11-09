@@ -3661,6 +3661,15 @@ KakouneScript:
   - kakrc
   ace_mode: text
   language_id: 603336474
+KCL:
+  type: programming
+  tm_scope: source.kcl
+  ace_mode: text
+  codemirror_mode: javascript
+  codemirror_mime_type: text/javascript
+  color: "#3B66F8"
+  extensions:
+  - ".kcl"
 KerboScript:
   type: programming
   ace_mode: text
